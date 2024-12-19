@@ -1,5 +1,5 @@
 # JNDIBypass
-对JNDIbypass工具进行二次开发
+对JNDIbypass工具进行二次开发，原工具地址找不到了（是个大佬写的），抱歉抱歉，
 
 1、使用说明
 
